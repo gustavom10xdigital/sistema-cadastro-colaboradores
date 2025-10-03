@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/gus7a2005/sistema-cadastro-coaboradores
+	tagOpt = --no-tags
+	fetch = +refs/*:refs/*
+	mirror = true
